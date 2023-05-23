@@ -2,6 +2,10 @@
 
 # Pokédex
 
+
+* [demo live](https://pokedex-challengev.netlify.app/)
+
+
 ## ⚙ Configuración 
 
 1- Para instalar las dependencias :
