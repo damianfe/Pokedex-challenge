@@ -1,0 +1,34 @@
+:root {
+  --white: #ffffff;
+  --white-200: #e5e5e5;
+  --black: #000000;
+  --blue: #87cefa
+  --blue-200:#0e6f9f;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--white);
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--black);
+}
+
+a {
+  text-decoration: none;
+}
+
