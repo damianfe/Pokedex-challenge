@@ -22,8 +22,8 @@
  
  
 ## Funcionalidades
-   ----Requerimientos 
-    --Importante: Podrá realizar la configuración del proyecto utilizando VITE o ---CREATE-REACT-APP
+   Requerimientos 
+    Importante: Podrá realizar la configuración del proyecto utilizando VITE o ---CREATE-REACT-APP
 
  Realizar un listado de pokemons en forma de galería.
  Utilizar un estado global para el manejo de la data, se recomienda Redux o Context.
